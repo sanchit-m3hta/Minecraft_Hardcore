@@ -2,12 +2,13 @@
 My Minecraft Hardcore World  
 Minecraft Version: 1.14.4 (Use OptiFine for best performance)
 
-How to navigate this repo?
-There are three folders which contain the save (zipped) file of the world,
-at three different points (timeline) in the world.
+There are four folders which contain the save (zipped) file of the world,
+at four different points (timeline) in the world.
 1. pre_fight: contains the save file at home base before the Ender Dragon fight
 2. right_before_right: contains the save file right at the End portal i.e right before the fight (if you want to fight the Dragon with my gear).
 3. post_fight: contains the save file after the Ender Dragon fight, back at home base
+4. post_game: contains the save file after achieving most of the major accomplishments available in the game, and this is also where I stopped playing
+   in this world (save file).
 
 Some useful coordinates:
 
