@@ -1,5 +1,6 @@
 # Minecraft_Hardcore
-My Minecraft Hardcore World
+My Minecraft Hardcore World  
+Minecraft Version: 1.14.4 (Use OptiFine for best performance)
 
 How to navigate this repo?
 There are three folders which contain the save (zipped) file of the world,
@@ -9,8 +10,9 @@ at three different points (timeline) in the world.
 3. post_fight: contains the save file after the Ender Dragon fight, back at home base
 
 Some useful coordinates:
-Home Base: near 0 ~ 0
-Nether Portal (Overworld): 0 ~ 0
-Nether Portal (Nether): -12 47 -2
-Staircase to End Portal: -711 78 1255
-End Portal: -760 34 1254
+
+Home Base: near 0 ~ 0  
+Nether Portal (Overworld): 0 ~ 0  
+Nether Portal (Nether): -12 47 -2  
+Staircase to End Portal: -711 78 1255  
+End Portal: -760 34 1254  
