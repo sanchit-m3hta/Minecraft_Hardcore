@@ -17,3 +17,4 @@ Nether Portal (Overworld): 0 ~ 0
 Nether Portal (Nether): -12 47 -2  
 Staircase to End Portal: -711 78 1255  
 End Portal: -760 34 1254  
+ End Gateway (End): -1026 57 0
